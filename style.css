@@ -1,0 +1,21 @@
+#container{
+    min-height: 400px;
+    position: relative;
+}
+#clock{
+    text-align: center;
+    font-size: 95px;
+    background-color: aquamarine;
+    color: #000;
+    min-width: 380px;
+    padding: 10px;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+body{
+    background-image: url("BROWN.jpg");
+}
